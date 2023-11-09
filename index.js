@@ -19,7 +19,6 @@ function fizzBuzz(n) {
 
 function main(num) {
   const n = parseInt(num);
-
   console.log(countPrimes2(n));
   // fizzBuzz(n);
 }
